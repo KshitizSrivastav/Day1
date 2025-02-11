@@ -1,0 +1,7 @@
+git init
+git add 'a.txt'
+git commit -m "Init"
+git push
+git remote add <name> <url>https://github.com/KshitizSrivastav/Day1.git
+git push --set-upstream Day1 master
+git push
